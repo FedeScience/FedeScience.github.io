@@ -1,0 +1,18 @@
+Site Creation
+https://wordpress.com/home/machinelearning721077816.wordpress.com
+
+Framework Install
+#@ https://jekyllrb.com/docs/installation/ubuntu/
+
+#@ https://www.gatsbyjs.com/docs/how-to/local-development/gatsby-on-linux/
+#@ https://www.gatsbyjs.com/docs/tutorial/part-zero/
+
+Site Deploy
+
+GitHub
+#@ https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/creating-a-github-pages-site
+#@ https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/about-github-pages-and-jekyll
+
+Netlyfy
+#@ https://www.netlify.com/with/wordpress/
+#@ https://www.gatsbyjs.com/docs/how-to/previews-deploys-hosting/deploying-to-netlify/
